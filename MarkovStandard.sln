@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarkovStandard", "MarkovStandard\MarkovStandard.csproj", "{FA7080DB-DFE3-4550-BAD3-66256449EE8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidiMarkov", "MidiMarkov\MidiMarkov.csproj", "{5FF7FDFC-FE0A-4DB7-BABF-D4BA42D1E2FA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MidiMarkov", "MidiMarkov\MidiMarkov.csproj", "{5FF7FDFC-FE0A-4DB7-BABF-D4BA42D1E2FA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
