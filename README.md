@@ -1,6 +1,6 @@
 # MarkovSharp
 
-[![chriscore MyGet Build Status](https://www.myget.org/BuildSource/Badge/chriscore?identifier=2e1ed033-4736-4537-9a85-1ad807bf13c3)](https://www.myget.org/)
+I did not create this library, I simply made it so that it uses .net standard. All credit goes to the original creator.
 
 An easy to use C# implementation of an N-state Markov model.
 MarkovSharp exposes the notion of a model strategy, which allows you to use pre-defined model strategies, or create your own.
