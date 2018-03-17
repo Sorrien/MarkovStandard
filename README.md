@@ -2,6 +2,8 @@
 
 I did not create this library, I simply made it so that it uses .net standard. All credit goes to the original creator.
 
+This project now uses my fork of sanford.multimedi.midi in order to be compatible with .net standard. The original sanford.multimedia.midi has references to windows forms that were not conducive to cross-platform compatibility. You can find that fork here: https://github.com/Sorrien/Sanford.Multimedia.Midi
+
 An easy to use C# implementation of an N-state Markov model.
 MarkovSharp exposes the notion of a model strategy, which allows you to use pre-defined model strategies, or create your own.
 
