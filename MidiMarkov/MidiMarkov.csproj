@@ -6,8 +6,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="MarkovStandard" Version="1.1.0" />
     <PackageReference Include="Sanford.Multimedia.Midi" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MarkovStandard\MarkovStandard.csproj" />
   </ItemGroup>
 
 </Project>
